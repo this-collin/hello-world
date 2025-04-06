@@ -1,2 +1,4 @@
 # hello-world
-Practicing github flow
+Practicing GitHub flow
+
+My name is Collin and I like coffee.
